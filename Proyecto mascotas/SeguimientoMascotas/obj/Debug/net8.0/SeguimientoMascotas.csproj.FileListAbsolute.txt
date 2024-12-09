@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ITI\Cuarto semestre\Módulo 1\Desarrollo de aplicaciones web\Tareas\Semana 5\Proyecto mascotas\SeguimientoMascotas\obj\Debug\net8.0\SeguimientoMascotas.MvcApplicationPartsAssemblyInfo.cache
